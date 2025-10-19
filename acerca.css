@@ -21,7 +21,7 @@ h1 {
 }
 
 .encabezado { 
-  background: url("arriba.jpg") center 20% / cover no-repeat;
+  background: url("arriba.jpg") center 20% / cover no-repeat !important;
   height: 50vh;
   display: flex;
   flex-direction: column;
@@ -179,6 +179,7 @@ a:hover {
 .final a:hover {
     color: #ff3131;
 }
+
 
 
 
