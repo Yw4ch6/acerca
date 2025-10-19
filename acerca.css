@@ -12,6 +12,10 @@ body {
     font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
 
 }
+p{
+    color: white;
+}
+
 
 h1 {
   color: #8f0000; 
@@ -179,6 +183,7 @@ a:hover {
 .final a:hover {
     color: #ff3131;
 }
+
 
 
 
